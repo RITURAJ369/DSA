@@ -1,2 +1,3 @@
 # DSA
-This repository contain DSA pro
+This repository contain DSA problems
+
